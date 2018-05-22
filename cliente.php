@@ -1,5 +1,5 @@
 <?php 
 
-	echo "programa cliente123";
+	echo "programa cliente....";
 	
 ?>

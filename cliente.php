@@ -1,5 +1,5 @@
 <?php 
 
-	echo "clase cliente";
+	echo "programa cliente";
 	
 ?>
